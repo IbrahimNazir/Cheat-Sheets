@@ -4,9 +4,9 @@ A curated collection of cheat sheets for modern development tools, frameworks, a
 
 ## Table of Contents
 
-- [About](#-about)
-- [Cheat Sheets](#-cheat-sheets)
-- [Usage](#-usage)
+- [About](#about)
+- [Cheat Sheets](#cheat-sheets)
+- [Usage](#usage)
 
 ## About
 
