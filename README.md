@@ -2,10 +2,6 @@
 
 A curated collection of cheat sheets for modern development tools, frameworks, and technologies.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/cheat-sheets?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/cheat-sheets?style=flat-square)
-![License](https://img.shields.io/github/license/yourusername/cheat-sheets?style=flat-square)
-
 ## Table of Contents
 
 - [About](#-about)
