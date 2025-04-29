@@ -5,12 +5,6 @@
 ### **Installation & Setup**
 
 ```bash
-# Install MongoDB Community Edition (Ubuntu)
-sudo apt-get install mongodb
-
-# Start MongoDB service
-sudo systemctl start mongod
-
 # Connect to MongoDB Shell
 mongosh
 

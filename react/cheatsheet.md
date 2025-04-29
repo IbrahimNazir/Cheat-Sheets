@@ -1,9 +1,5 @@
 # **React CLI & Components Cheat Sheet**
 
-This cheat sheet covers **React CLI commands**, **component patterns**, **hooks**, and **best practices** for building scalable React apps.
-
----
-
 ## **1. React CLI Commands**
 
 ### **Create React App (CRA)**

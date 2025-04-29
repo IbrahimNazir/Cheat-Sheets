@@ -219,6 +219,10 @@ pm2 save
 pm2 startup
 ```
 
+---
+
+## **8. Credential Security**
+
 ### **Environment Variables (dotenv)**
 
 ```bash
@@ -232,7 +236,7 @@ const PORT = process.env.PORT || 3000;
 
 ---
 
-## **8. Best Practices**
+## **9. Best Practices**
 
 - **Use `helmet` for security** (`npm install helmet`)
 - **Validate input with `joi` or `express-validator`**
