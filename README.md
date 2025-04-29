@@ -15,7 +15,7 @@ This repository contains quick-reference guides for various programming language
 ## Cheat Sheets
 
 - [Express.js](express/cheatsheet.md) - Node.js web framework
-- [Express.js](react/cheatsheet.md) - Frontend framework
+- [React.js](react/cheatsheet.md) - Frontend framework
 - [MongoDB](mongodb/cheatsheet.md) - NoSQL database
 - [Git/GitHub](github/cheatsheet.md) - Version control
 
